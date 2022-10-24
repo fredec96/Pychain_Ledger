@@ -6,7 +6,7 @@
 ![Full Streamlit Page](Images/full.png)
 
 * Bellow is a screenshot of the entire PyChain ledger (created with dummy transactions for testing purposes)
-![PyChain Ledger](Images/Chain.png)
+![PyChain Ledger](Images/chain.png)
 
 * Every time a block is successfully mined or the blockchain is validated a confirmation message is displayed in the terminal, as seen below
 ![Terminal Example](Images/terminal.png)
