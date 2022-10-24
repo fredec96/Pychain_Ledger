@@ -1,4 +1,4 @@
-# PyChain Ledger using Streamlit
+# PyChain Ledger Using Streamlit
 
 ## This project consisted of making edits to an existing pychain file in order to optimize Streamlit integration
 
